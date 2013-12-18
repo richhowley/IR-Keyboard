@@ -3,7 +3,7 @@
 IR Keyboard Project page:  http://beersurrender.com/projectirkeyboard
 
 
-This is code for an IR Keyboard used to perform YouTube searches on a LG Blu-Ray player.
+This is code for an IR Keyboard used to perform YouTube searches on a LG Blu-Ray player.  Extract IR_Keyboard.zip and put the IR_Keyboard folder into the Arduino Sketches folder.
 
 The hardware for this projects consists of a PS/2 Keyboard, Teensy 2.0, LCD screen and an IR LED triggered through a transistor, the power source is a 9V battery.
 
