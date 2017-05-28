@@ -1,13 +1,10 @@
 12/17/13
 
-IR Keyboard Project page:  http://beersurrender.com/projectirkeyboard
-
-
-This is code for an IR Keyboard used to perform YouTube searches on a LG Blu-Ray player.  Extract IR_Keyboard.zip and put the IR_Keyboard folder into the Arduino Sketches folder.
+This is code for an IR Keyboard used to perform YouTube searches on a LG Blu-Ray player.  
 
 The hardware for this projects consists of a PS/2 Keyboard, Teensy 2.0, LCD screen and an IR LED triggered through a transistor, the power source is a 9V battery.
 
-The code was written for the Arduino 1.0 IDE with Teensyduino (http://www.pjrc.com/teensy/teensyduino.html).  It uses the LiquidCrystal, PS2Keyboard and IRremote libraries (see http://www.pjrc.com/teensy/td_libs.html).
+The code was written for the Arduino IDE with Teensyduino (http://www.pjrc.com/teensy/teensyduino.html).  It uses the LiquidCrystal, PS2Keyboard and IRremote libraries (see http://www.pjrc.com/teensy/td_libs.html).
 
 
 This software was written specifically for the YouTube search grid on a LG Blu-Ray player, it would have to be modified to work on a search gird with a different layout.  See the project page for a picture of the grid layout.
