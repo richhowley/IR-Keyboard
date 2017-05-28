@@ -39,6 +39,6 @@ If ESC is pressed when entering a search term any text on the LCD is erased.
 
 If ESC is pressed when the IR Keyboard is sending IR commands the send is aborted and the LCD text is left in tact.  This is useful if the IR commands get out of sync so that gibberish is being typed on the TV.  In this case F2 can be used to clear the TV search field and then Enter will attempt to send the search term again.
 
-![IR-KEYBOARD](https://cloud.githubusercontent.com/assets/318132/26525661/756678b2-432c-11e7-946c-709f5223df4f.jpg?raw=true "Optional Title")
+![IR-KEYBOARD](https://cloud.githubusercontent.com/assets/318132/26525661/756678b2-432c-11e7-946c-709f5223df4f.jpg?raw=true "IR Keyboard")
 
-![IR-KEYBOARD-LCD](https://cloud.githubusercontent.com/assets/318132/26525662/788ff09a-432c-11e7-8ed6-89ca7e1c3bf3.jpg "Optional Title")
+![IR-KEYBOARD-LCD](https://cloud.githubusercontent.com/assets/318132/26525662/788ff09a-432c-11e7-8ed6-89ca7e1c3bf3.jpg "IR Keyboard LCD")
