@@ -1,4 +1,5 @@
-12/17/13
+IR Keyboard
+-------------
 
 This is code for an IR Keyboard used to perform YouTube searches on a LG Blu-Ray player.  
 
@@ -38,6 +39,9 @@ ESC : clears search term or stops sending IR codes
 If ESC is pressed when entering a search term any text on the LCD is erased.
 
 If ESC is pressed when the IR Keyboard is sending IR commands the send is aborted and the LCD text is left in tact.  This is useful if the IR commands get out of sync so that gibberish is being typed on the TV.  In this case F2 can be used to clear the TV search field and then Enter will attempt to send the search term again.
+
+Images
+-------------
 
 ![IR-KEYBOARD](https://cloud.githubusercontent.com/assets/318132/26525661/756678b2-432c-11e7-946c-709f5223df4f.jpg?raw=true "IR Keyboard")
 
